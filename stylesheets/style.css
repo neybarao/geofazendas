@@ -111,49 +111,74 @@ body { font-family: Ubuntu; background: #f0f0f0; }
 #mapas-tematicos ul li a:hover { color: #f38021; }
 
 /* line 268, ../sass/style.sass */
-#contact_form { background: url(./gfx/img-map.png) top right no-repeat white; margin: auto; width: 780px; height: 440px; padding: 20px; position: relative; }
-/* line 275, ../sass/style.sass */
-#contact_form h2 { margin: 0; font-size: 24px; color: #f38021; }
-/* line 279, ../sass/style.sass */
-#contact_form label { display: block; width: 400px; }
-/* line 282, ../sass/style.sass */
-#contact_form label span { display: block; font-size: 14px; color: #989898; }
+#sign-forms { margin: auto; width: 780px; }
+/* line 271, ../sass/style.sass */
+#sign-forms .form-padding { padding: 20px; }
+/* line 273, ../sass/style.sass */
+#sign-forms p { color: #3c454a; font-size: 14px; line-height: 1em; }
+/* line 277, ../sass/style.sass */
+#sign-forms label { display: block; width: 400px; }
+/* line 280, ../sass/style.sass */
+#sign-forms label span { display: block; font-size: 14px; color: #989898; }
+/* line 284, ../sass/style.sass */
+#sign-forms label input:inactive { color: #aeaeae; }
 /* line 286, ../sass/style.sass */
-#contact_form label input:inactive { color: #aeaeae; }
-/* line 288, ../sass/style.sass */
-#contact_form label input, #contact_form label textarea { background: #e0e0e0; color: #3c454a; font-size: 16px; border: none; display: block; width: 100%; line-height: 40px; text-indent: 15px; }
-/* line 297, ../sass/style.sass */
-#contact_form label textarea { line-height: 1em; height: 120px; margin-bottom: 10px; }
-/* line 301, ../sass/style.sass */
-#contact_form .form-button-send { color: white; text-transform: uppercase; font-size: 18px; background: #419cce; border: none; width: 400px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; }
+#sign-forms label input { background: #e0e0e0; color: #3c454a; font-size: 16px; border: none; display: block; width: 340px; line-height: 40px; text-indent: 15px; }
+/* line 295, ../sass/style.sass */
+#sign-forms .form-button-send { margin-top: 10px; color: white; text-transform: uppercase; font-size: 18px; background: #419cce; border: none; width: 340px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; }
+/* line 305, ../sass/style.sass */
+#sign-forms #signup { position: relative; background: white; float: left; width: 380px; }
 /* line 310, ../sass/style.sass */
-#contact_form .contact_data { position: absolute; bottom: 15px; right: 15px; padding: 20px; width: 310px; height: 120px; }
+#sign-forms #signup h2 { margin: 0; background: #f38021; color: white; display: block; font-size: 18px; padding: 10px; }
 /* line 317, ../sass/style.sass */
+#sign-forms #signin { position: relative; background: white; float: right; width: 380px; }
+/* line 322, ../sass/style.sass */
+#sign-forms #signin h2 { margin: 0; background: #37945b; color: white; display: block; font-size: 18px; padding: 10px; }
+
+/* line 330, ../sass/style.sass */
+#contact_form { background: url(./gfx/img-map.png) top right no-repeat white; margin: auto; width: 780px; height: 440px; padding: 20px; position: relative; }
+/* line 337, ../sass/style.sass */
+#contact_form h2 { margin: 0; font-size: 24px; color: #f38021; }
+/* line 341, ../sass/style.sass */
+#contact_form label { display: block; width: 400px; }
+/* line 344, ../sass/style.sass */
+#contact_form label span { display: block; font-size: 14px; color: #989898; }
+/* line 348, ../sass/style.sass */
+#contact_form label input:inactive { color: #aeaeae; }
+/* line 350, ../sass/style.sass */
+#contact_form label input, #contact_form label textarea { background: #e0e0e0; color: #3c454a; font-size: 16px; border: none; display: block; width: 100%; line-height: 40px; text-indent: 15px; }
+/* line 359, ../sass/style.sass */
+#contact_form label textarea { line-height: 1em; height: 120px; margin-bottom: 10px; }
+/* line 363, ../sass/style.sass */
+#contact_form .form-button-send { color: white; text-transform: uppercase; font-size: 18px; background: #419cce; border: none; width: 400px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; }
+/* line 372, ../sass/style.sass */
+#contact_form .contact_data { position: absolute; bottom: 15px; right: 15px; padding: 20px; width: 310px; height: 120px; }
+/* line 379, ../sass/style.sass */
 #contact_form .contact_data small { display: block; font-size: 14px; font-weight: bold; color: #929ca5; text-transform: uppercase; }
-/* line 323, ../sass/style.sass */
+/* line 385, ../sass/style.sass */
 #contact_form .contact_data big { display: block; font-size: 24px; font-weight: normal; color: #3d444a; }
 
-/* line 329, ../sass/style.sass */
+/* line 391, ../sass/style.sass */
 #footer { margin-top: 40px; }
-/* line 331, ../sass/style.sass */
+/* line 393, ../sass/style.sass */
 #footer #footer-content { background: white; }
-/* line 333, ../sass/style.sass */
+/* line 395, ../sass/style.sass */
 #footer #footer-content .site-info { padding: 20px; display: block; float: left; width: 220px; }
-/* line 338, ../sass/style.sass */
+/* line 400, ../sass/style.sass */
 #footer #footer-content .site-info img { display: block; float: left; margin-right: 10px; }
-/* line 342, ../sass/style.sass */
+/* line 404, ../sass/style.sass */
 #footer #footer-content .site-info b { font-weight: bold; color: #9daf3a; font-size: 18px; float: left; }
-/* line 347, ../sass/style.sass */
+/* line 409, ../sass/style.sass */
 #footer #footer-content .site-info small { color: #707070; font-size: 13px; float: left; }
-/* line 351, ../sass/style.sass */
+/* line 413, ../sass/style.sass */
 #footer #footer-content .footer-menu, #footer #footer-content .social { padding: 20px 0; padding-top: 24px; padding-left: 20px; display: block; float: left; width: 450px; }
-/* line 358, ../sass/style.sass */
+/* line 420, ../sass/style.sass */
 #footer #footer-content .footer-menu ul, #footer #footer-content .social ul { margin: 0; padding: 0; list-style-position: outside; list-style-type: none; }
-/* line 363, ../sass/style.sass */
+/* line 425, ../sass/style.sass */
 #footer #footer-content .footer-menu li, #footer #footer-content .social li { display: inline; margin: 0; margin-right: 15px; padding: 0; }
-/* line 368, ../sass/style.sass */
+/* line 430, ../sass/style.sass */
 #footer #footer-content .footer-menu a, #footer #footer-content .social a { color: #666666; text-decoration: none; font-size: 11px; }
-/* line 372, ../sass/style.sass */
+/* line 434, ../sass/style.sass */
 #footer #footer-content .footer-menu a:hover, #footer #footer-content .social a:hover { color: #9daf3a; }
-/* line 374, ../sass/style.sass */
+/* line 436, ../sass/style.sass */
 #footer #footer-content .social { float: right; width: 150px; padding-top: 30px; padding-left: 0; text-align: right; }
