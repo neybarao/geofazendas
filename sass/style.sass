@@ -58,6 +58,7 @@ body
 		background: url(./gfx/logo-header.png) center center no-repeat
 		width: 120px
 		height: 164px
+		margin-bottom: -64px
 		span
 			visibility: hidden
 	#header-menu
@@ -86,13 +87,42 @@ body
 		li
 			list-style-type: none
 
+#page-title	
+	position: relative
+	background: #3c454a !important
+	border-top: 4px solid #31393d
+	height: 76px
+	margin: 0
+	padding: 0
+	h1
+		position: relative
+		font-size: 30px
+		color: #c3dd32
+		font-weight: normal
+		margin-top: 10px
+		margin-left: 150px
+
+#breadcrumbtrail
+	background: white
+	padding: 10px 0
+	font-size: 16px
+	overflow: hidden
+	vertical-align: middle
+	*
+		vertical-align: middle
+	a
+		color: #92989c
+		text-decoration: none
+	a:hover
+		color: #c3dd32
+	b
+		color: #f38021
+
 #map-bg
 	position: relative
 	display: block
 	clear: both
 	height: 290px
-	margin-bottom: -80px
-	top: -80px
 	#filter-search
 		position: relative
 		top: -314px
@@ -141,6 +171,11 @@ body
 			color: #9e9e9e
 		a:hover
 			color: #9daf3a
+	p
+		color: #636b70
+		font-size: 16px
+		font-weight: normal
+		line-height: 2em
 	.featured_ad
 		position: relative
 		background: white
