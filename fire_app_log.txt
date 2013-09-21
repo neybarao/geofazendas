@@ -1,0 +1,519 @@
+2013-07-28 09:25:35     error sass/style.sass (Line 2: File to import not found or unreadable: partials/base.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-07-28 09:25:35    create stylesheets/style.css 
+2013-07-28 09:25:45 overwrite stylesheets/style.css 
+2013-07-28 09:30:10 overwrite stylesheets/style.css 
+2013-07-28 09:41:00    remove .sass-cache/ 
+2013-07-28 09:41:01    remove stylesheets/ie.css 
+2013-07-28 09:41:01    remove stylesheets/print.css 
+2013-07-28 09:41:01    remove stylesheets/screen.css 
+2013-07-28 09:41:01    remove stylesheets/style.css 
+2013-07-28 09:41:01    create stylesheets/ie.css 
+2013-07-28 09:41:02    create stylesheets/print.css 
+2013-07-28 09:41:02    create stylesheets/screen.css 
+2013-07-28 09:41:05    create stylesheets/style.css 
+2013-07-28 09:43:01 overwrite stylesheets/style.css 
+2013-07-28 10:02:58    create stylesheets/main.css 
+2013-07-28 10:05:42 identical stylesheets/style.css 
+2013-07-28 10:07:19     error sass/style.sass (Line 34: Invalid CSS after "border-radius": expected selector, was "(5)")
+2013-07-28 10:07:20 overwrite stylesheets/style.css 
+2013-07-28 10:07:22     error sass/style.sass (Line 34: Invalid CSS after "border-radius": expected selector, was "(5)")
+2013-07-28 10:07:23 identical stylesheets/style.css 
+2013-07-28 10:07:35     error sass/style.sass (Line 35: Invalid CSS after "border-radius": expected selector, was "(5)")
+2013-07-28 10:07:35 overwrite stylesheets/style.css 
+2013-07-28 10:07:58     error sass/style.sass (Line 35: Invalid CSS after "border-radius": expected selector, was "(5px)")
+2013-07-28 10:07:59 overwrite stylesheets/style.css 
+2013-07-28 10:08:05     error sass/style.sass (Line 35: Invalid CSS after "border-radius": expected selector, was "("5px")")
+2013-07-28 10:08:05 overwrite stylesheets/style.css 
+2013-07-28 10:08:17     error sass/style.sass (Line 35: Invalid CSS after "border-radius": expected selector, was "(5px)")
+2013-07-28 10:08:17 overwrite stylesheets/style.css 
+2013-07-28 10:08:35 overwrite stylesheets/style.css 
+2013-07-28 10:08:53 overwrite stylesheets/style.css 
+2013-07-28 10:09:02 overwrite stylesheets/style.css 
+2013-07-28 10:09:50 identical stylesheets/style.css 
+2013-07-28 10:10:02 identical stylesheets/style.css 
+2013-07-28 10:11:59 overwrite stylesheets/style.css 
+2013-07-28 10:13:09 overwrite stylesheets/style.css 
+2013-07-28 10:14:13    create stylesheets/grid.css 
+2013-07-28 10:14:13    create stylesheets/text.css 
+2013-07-28 10:18:03 overwrite stylesheets/style.css 
+2013-07-28 10:18:22 overwrite stylesheets/style.css 
+2013-07-28 10:18:47 overwrite stylesheets/style.css 
+2013-07-28 10:19:14 overwrite stylesheets/style.css 
+2013-07-29 14:57:21 overwrite stylesheets/style.css 
+2013-08-17 09:33:44 overwrite stylesheets/grid.css 
+2013-08-17 09:33:46 overwrite stylesheets/main.css 
+2013-08-17 09:33:46 identical stylesheets/screen.css 
+2013-08-17 09:33:47     error sass/style.sass (Line 5: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 09:33:47 overwrite stylesheets/style.css 
+2013-08-17 09:33:48 overwrite stylesheets/text.css 
+2013-08-17 10:31:58     error sass/style.sass (Line 5: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 10:31:59 overwrite stylesheets/style.css 
+2013-08-17 10:32:03     error sass/style.sass (Line 14: Undefined mixin 'html5-boilerplate-normalize'.)
+2013-08-17 10:32:03 overwrite stylesheets/style.css 
+2013-08-17 10:32:32     error sass/style.sass (Line 15: Undefined mixin 'html5-boilerplate-normalize'.)
+2013-08-17 10:32:32 overwrite stylesheets/style.css 
+2013-08-17 10:32:54     error sass/style.sass (Line 28: Undefined mixin 'html5-boilerplate-helpers'.)
+2013-08-17 10:32:54 overwrite stylesheets/style.css 
+2013-08-17 10:33:10     error sass/style.sass (Line 19 of sass/partials/_media.sass: Undefined mixin 'html5-boilerplate-print'.)
+2013-08-17 10:33:10 overwrite stylesheets/style.css 
+2013-08-17 10:35:22     error sass/style.sass (Line 19 of sass/partials/_media.sass: Undefined mixin 'html5-boilerplate-print'.)
+2013-08-17 10:35:23 identical stylesheets/style.css 
+2013-08-17 10:41:06     error sass/style.sass (Line 19 of sass/partials/_media.sass: Undefined mixin 'html5-boilerplate-print'.)
+2013-08-17 10:41:06 identical stylesheets/style.css 
+2013-08-17 10:41:32     error sass/style.sass (Line 19 of sass/partials/_media.sass: Undefined mixin 'html5-boilerplate-print'.)
+2013-08-17 10:41:32 identical stylesheets/style.css 
+2013-08-17 10:42:19     error sass/style.sass (Line 6: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 10:42:19 overwrite stylesheets/style.css 
+2013-08-17 10:42:55 identical stylesheets/grid.css 
+2013-08-17 10:42:56     error sass/style.sass (Line 6: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 10:42:56 overwrite stylesheets/style.css 
+2013-08-17 10:42:56     error sass/style.sass (Line 6: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 10:42:57 identical stylesheets/style.css 
+2013-08-17 10:43:54     error sass/style.sass (Line 5: File to import not found or unreadable: html5-boilerplate.
+Load paths:
+  /Volumes/dados/Users/neyricardo/Documents/TRABALHO/GEO FAZENDAS/HTML/geofazendas/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-08-17 10:43:54 overwrite stylesheets/style.css 
+2013-08-17 10:44:10     error sass/style.sass (Line 6: Undefined mixin 'html5-boilerplate'.)
+2013-08-17 10:44:10 overwrite stylesheets/style.css 
+2013-08-17 10:45:50     error sass/style.sass (Line 6: Undefined mixin 'html5-boilerplate'.)
+2013-08-17 10:45:50 identical stylesheets/style.css 
+2013-08-17 10:45:53     error sass/style.sass (Line 15: Invalid @import: expected end of line, was ";".)
+2013-08-17 10:45:54 overwrite stylesheets/style.css 
+2013-08-17 10:46:03     error sass/style.sass (Line 6: Undefined mixin 'html5-boilerplate'.)
+2013-08-17 10:46:03 overwrite stylesheets/style.css 
+2013-08-17 10:47:41     error sass/style.sass (Line 6 of sass/partials/_overrides.sass: Undefined mixin 'h5bp-normalize-html5'.)
+2013-08-17 10:47:41 overwrite stylesheets/style.css 
+2013-08-17 10:48:00     error sass/style.sass (Line 19 of sass/partials/_media.sass: Undefined mixin 'html5-boilerplate-print'.)
+2013-08-17 10:48:01 overwrite stylesheets/style.css 
+2013-08-17 10:48:16 overwrite stylesheets/style.css 
+2013-08-17 10:49:37 overwrite stylesheets/style.css 
+2013-08-17 10:56:58 overwrite stylesheets/style.css 
+2013-08-17 10:57:27 overwrite stylesheets/style.css 
+2013-08-17 10:57:58 overwrite stylesheets/style.css 
+2013-08-17 10:58:11 overwrite stylesheets/style.css 
+2013-08-17 10:58:35 overwrite stylesheets/style.css 
+2013-08-17 10:58:42 overwrite stylesheets/style.css 
+2013-08-17 10:59:12 identical stylesheets/style.css 
+2013-08-17 11:00:25     error sass/style.sass (Line 30: Invalid variable: "$base-font-family".)
+2013-08-17 11:00:26 overwrite stylesheets/style.css 
+2013-08-17 11:00:35     error sass/style.sass (Line 30: Undefined mixin 'base-font-family'.)
+2013-08-17 11:00:35 overwrite stylesheets/style.css 
+2013-08-17 11:00:46     error sass/style.sass (Line 30: Invalid mixin include "@include +base-font-family".)
+2013-08-17 11:00:46 overwrite stylesheets/style.css 
+2013-08-17 11:00:53     error sass/style.sass (Line 30: Invalid mixin include "@include $base-font-family".)
+2013-08-17 11:00:53 overwrite stylesheets/style.css 
+2013-08-17 11:01:03 overwrite stylesheets/style.css 
+2013-08-17 11:02:12     error sass/style.sass (Line 46: Undefined mixin 'hide-text'.)
+2013-08-17 11:02:13 overwrite stylesheets/style.css 
+2013-08-17 11:02:17 overwrite stylesheets/style.css 
+2013-08-17 11:02:20 overwrite stylesheets/style.css 
+2013-08-17 11:03:43     error sass/style.sass (Line 6: Undefined mixin 'html5-boilerplate'.)
+2013-08-17 11:03:44 overwrite stylesheets/style.css 
+2013-08-17 11:05:05 identical stylesheets/grid.css 
+2013-08-17 11:05:06 identical stylesheets/text.css 
+2013-08-17 11:05:56 overwrite stylesheets/style.css 
+2013-08-17 11:07:23 overwrite stylesheets/style.css 
+2013-08-17 11:07:40 overwrite stylesheets/style.css 
+2013-08-17 11:07:46 overwrite stylesheets/style.css 
+2013-08-17 11:15:09 overwrite stylesheets/style.css 
+2013-08-17 11:15:22 overwrite stylesheets/style.css 
+2013-08-17 11:15:37 overwrite stylesheets/style.css 
+2013-08-17 11:16:02 overwrite stylesheets/style.css 
+2013-08-17 11:17:07 identical stylesheets/grid.css 
+2013-08-17 11:17:07 identical stylesheets/ie.css 
+2013-08-17 11:17:08 identical stylesheets/main.css 
+2013-08-17 11:17:09 identical stylesheets/print.css 
+2013-08-17 11:17:09 identical stylesheets/screen.css 
+2013-08-17 11:17:13 overwrite stylesheets/style.css 
+2013-08-17 11:17:13 identical stylesheets/text.css 
+2013-08-17 11:17:49    remove .sass-cache/ 
+2013-08-17 11:17:49    remove stylesheets/grid.css 
+2013-08-17 11:17:50    remove stylesheets/ie.css 
+2013-08-17 11:17:50    remove stylesheets/main.css 
+2013-08-17 11:17:50    remove stylesheets/print.css 
+2013-08-17 11:17:50    remove stylesheets/screen.css 
+2013-08-17 11:17:51    remove stylesheets/style.css 
+2013-08-17 11:17:51    remove stylesheets/text.css 
+2013-08-17 11:17:53    create stylesheets/grid.css 
+2013-08-17 11:17:53    create stylesheets/ie.css 
+2013-08-17 11:17:54    create stylesheets/main.css 
+2013-08-17 11:17:55    create stylesheets/print.css 
+2013-08-17 11:17:55    create stylesheets/screen.css 
+2013-08-17 11:17:58    create stylesheets/style.css 
+2013-08-17 11:17:58    create stylesheets/text.css 
+2013-08-17 11:18:19    remove .sass-cache/ 
+2013-08-17 11:18:19    remove stylesheets/grid.css 
+2013-08-17 11:18:19    remove stylesheets/ie.css 
+2013-08-17 11:18:19    remove stylesheets/main.css 
+2013-08-17 11:18:20    remove stylesheets/print.css 
+2013-08-17 11:18:20    remove stylesheets/screen.css 
+2013-08-17 11:18:20    remove stylesheets/style.css 
+2013-08-17 11:18:20    remove stylesheets/text.css 
+2013-08-17 11:18:22    create stylesheets/grid.css 
+2013-08-17 11:18:22    create stylesheets/ie.css 
+2013-08-17 11:18:23    create stylesheets/main.css 
+2013-08-17 11:18:23    create stylesheets/print.css 
+2013-08-17 11:18:24    create stylesheets/screen.css 
+2013-08-17 11:18:26    create stylesheets/style.css 
+2013-08-17 11:18:27    create stylesheets/text.css 
+2013-08-17 11:18:43 overwrite stylesheets/style.css 
+2013-08-17 11:19:01 overwrite stylesheets/style.css 
+2013-08-17 11:19:41    remove .sass-cache/ 
+2013-08-17 11:19:41    remove stylesheets/grid.css 
+2013-08-17 11:19:42    remove stylesheets/ie.css 
+2013-08-17 11:19:42    remove stylesheets/main.css 
+2013-08-17 11:19:42    remove stylesheets/print.css 
+2013-08-17 11:19:43    remove stylesheets/screen.css 
+2013-08-17 11:19:43    remove stylesheets/style.css 
+2013-08-17 11:19:43    remove stylesheets/text.css 
+2013-08-17 11:19:44    create stylesheets/grid.css 
+2013-08-17 11:19:45    create stylesheets/ie.css 
+2013-08-17 11:19:45    create stylesheets/main.css 
+2013-08-17 11:19:46    create stylesheets/print.css 
+2013-08-17 11:19:46    create stylesheets/screen.css 
+2013-08-17 11:19:48    create stylesheets/style.css 
+2013-08-17 11:19:49    create stylesheets/text.css 
+2013-08-17 11:20:34 overwrite stylesheets/style.css 
+2013-08-17 11:21:00    remove .sass-cache/ 
+2013-08-17 11:21:01    remove stylesheets/grid.css 
+2013-08-17 11:21:01    remove stylesheets/ie.css 
+2013-08-17 11:21:01    remove stylesheets/main.css 
+2013-08-17 11:21:01    remove stylesheets/print.css 
+2013-08-17 11:21:02    remove stylesheets/screen.css 
+2013-08-17 11:21:02    remove stylesheets/style.css 
+2013-08-17 11:21:02    remove stylesheets/text.css 
+2013-08-17 11:21:03    create stylesheets/grid.css 
+2013-08-17 11:21:04    create stylesheets/ie.css 
+2013-08-17 11:21:05    create stylesheets/main.css 
+2013-08-17 11:21:05    create stylesheets/print.css 
+2013-08-17 11:21:05    create stylesheets/screen.css 
+2013-08-17 11:21:07    create stylesheets/style.css 
+2013-08-17 11:21:08    create stylesheets/text.css 
+2013-08-17 11:22:35 overwrite stylesheets/style.css 
+2013-08-17 11:23:32     error sass/style.sass (Line 22: Undefined mixin 'pie-clearfix'.)
+2013-08-17 11:23:32 overwrite stylesheets/style.css 
+2013-08-17 11:23:36 overwrite stylesheets/style.css 
+2013-08-17 11:24:22 overwrite stylesheets/style.css 
+2013-08-17 11:25:13 overwrite stylesheets/style.css 
+2013-08-17 11:26:08 overwrite stylesheets/style.css 
+2013-08-17 11:26:38 overwrite stylesheets/style.css 
+2013-08-17 11:27:19 overwrite stylesheets/style.css 
+2013-08-17 11:27:37 overwrite stylesheets/style.css 
+2013-08-17 11:29:00 overwrite stylesheets/style.css 
+2013-08-17 11:29:42 overwrite stylesheets/style.css 
+2013-08-17 11:31:19 overwrite stylesheets/style.css 
+2013-08-17 11:31:41 overwrite stylesheets/style.css 
+2013-08-17 11:32:13 overwrite stylesheets/style.css 
+2013-08-17 11:32:56 overwrite stylesheets/style.css 
+2013-08-17 11:33:46 overwrite stylesheets/style.css 
+2013-08-17 11:34:02 overwrite stylesheets/style.css 
+2013-08-17 11:34:19 overwrite stylesheets/style.css 
+2013-08-17 11:34:25 overwrite stylesheets/style.css 
+2013-08-17 11:34:45 overwrite stylesheets/style.css 
+2013-08-17 11:36:17 overwrite stylesheets/style.css 
+2013-08-17 11:36:31 overwrite stylesheets/style.css 
+2013-08-17 11:36:36 overwrite stylesheets/style.css 
+2013-08-17 11:37:00 overwrite stylesheets/style.css 
+2013-08-17 11:48:20 overwrite stylesheets/style.css 
+2013-08-17 11:50:33 identical stylesheets/grid.css 
+2013-08-17 11:50:33 identical stylesheets/ie.css 
+2013-08-17 11:50:34 identical stylesheets/main.css 
+2013-08-17 11:50:34 identical stylesheets/print.css 
+2013-08-17 11:50:35 identical stylesheets/screen.css 
+2013-08-17 11:50:37 overwrite stylesheets/style.css 
+2013-08-17 11:50:37 identical stylesheets/text.css 
+2013-08-17 11:50:49 identical stylesheets/grid.css 
+2013-08-17 11:50:50 identical stylesheets/ie.css 
+2013-08-17 11:50:50 identical stylesheets/main.css 
+2013-08-17 11:50:50 identical stylesheets/print.css 
+2013-08-17 11:50:51 identical stylesheets/screen.css 
+2013-08-17 11:50:51 overwrite stylesheets/style.css 
+2013-08-17 11:50:52 identical stylesheets/text.css 
+2013-08-17 11:52:10 identical stylesheets/grid.css 
+2013-08-17 11:52:10 identical stylesheets/ie.css 
+2013-08-17 11:52:11 identical stylesheets/main.css 
+2013-08-17 11:52:11 identical stylesheets/print.css 
+2013-08-17 11:52:11 identical stylesheets/screen.css 
+2013-08-17 11:52:12 overwrite stylesheets/style.css 
+2013-08-17 11:52:12 identical stylesheets/text.css 
+2013-08-17 11:52:26 identical stylesheets/grid.css 
+2013-08-17 11:52:26 identical stylesheets/ie.css 
+2013-08-17 11:52:27 identical stylesheets/main.css 
+2013-08-17 11:52:27 identical stylesheets/print.css 
+2013-08-17 11:52:27 identical stylesheets/screen.css 
+2013-08-17 11:52:28 overwrite stylesheets/style.css 
+2013-08-17 11:52:29 identical stylesheets/text.css 
+2013-08-17 11:52:39 identical stylesheets/grid.css 
+2013-08-17 11:52:39 identical stylesheets/ie.css 
+2013-08-17 11:52:40 identical stylesheets/main.css 
+2013-08-17 11:52:40 identical stylesheets/print.css 
+2013-08-17 11:52:40 identical stylesheets/screen.css 
+2013-08-17 11:52:41 overwrite stylesheets/style.css 
+2013-08-17 11:52:41 identical stylesheets/text.css 
+2013-08-17 11:52:48 identical stylesheets/grid.css 
+2013-08-17 11:52:48 identical stylesheets/ie.css 
+2013-08-17 11:52:48 identical stylesheets/main.css 
+2013-08-17 11:52:49 identical stylesheets/print.css 
+2013-08-17 11:52:49 identical stylesheets/screen.css 
+2013-08-17 11:52:50 overwrite stylesheets/style.css 
+2013-08-17 11:52:50 identical stylesheets/text.css 
+2013-08-17 11:53:05 identical stylesheets/grid.css 
+2013-08-17 11:53:05 identical stylesheets/ie.css 
+2013-08-17 11:53:06 identical stylesheets/main.css 
+2013-08-17 11:53:06 identical stylesheets/print.css 
+2013-08-17 11:53:07 identical stylesheets/screen.css 
+2013-08-17 11:53:07 overwrite stylesheets/style.css 
+2013-08-17 11:53:08 identical stylesheets/text.css 
+2013-08-17 12:03:14 identical stylesheets/grid.css 
+2013-08-17 12:03:14 identical stylesheets/ie.css 
+2013-08-17 12:03:15 identical stylesheets/main.css 
+2013-08-17 12:03:16 identical stylesheets/print.css 
+2013-08-17 12:03:16 identical stylesheets/screen.css 
+2013-08-17 12:03:17 overwrite stylesheets/style.css 
+2013-08-17 12:03:18 identical stylesheets/text.css 
+2013-08-17 12:03:40 identical stylesheets/grid.css 
+2013-08-17 12:03:41 identical stylesheets/ie.css 
+2013-08-17 12:03:41 identical stylesheets/main.css 
+2013-08-17 12:03:41 identical stylesheets/print.css 
+2013-08-17 12:03:42 identical stylesheets/screen.css 
+2013-08-17 12:03:43 overwrite stylesheets/style.css 
+2013-08-17 12:03:43 identical stylesheets/text.css 
+2013-08-17 12:05:34 identical stylesheets/grid.css 
+2013-08-17 12:05:35 identical stylesheets/ie.css 
+2013-08-17 12:05:35 identical stylesheets/main.css 
+2013-08-17 12:05:35 identical stylesheets/print.css 
+2013-08-17 12:05:36 identical stylesheets/screen.css 
+2013-08-17 12:05:37 overwrite stylesheets/style.css 
+2013-08-17 12:05:37 identical stylesheets/text.css 
+2013-08-17 12:05:50 identical stylesheets/grid.css 
+2013-08-17 12:05:51 identical stylesheets/ie.css 
+2013-08-17 12:05:51 identical stylesheets/main.css 
+2013-08-17 12:05:51 identical stylesheets/print.css 
+2013-08-17 12:05:52 identical stylesheets/screen.css 
+2013-08-17 12:05:53 overwrite stylesheets/style.css 
+2013-08-17 12:05:53 identical stylesheets/text.css 
+2013-08-17 12:05:58 identical stylesheets/grid.css 
+2013-08-17 12:05:59 identical stylesheets/ie.css 
+2013-08-17 12:05:59 identical stylesheets/main.css 
+2013-08-17 12:05:59 identical stylesheets/print.css 
+2013-08-17 12:06:00 identical stylesheets/screen.css 
+2013-08-17 12:06:01 overwrite stylesheets/style.css 
+2013-08-17 12:06:01 identical stylesheets/text.css 
+2013-08-17 12:06:07 identical stylesheets/grid.css 
+2013-08-17 12:06:07 identical stylesheets/ie.css 
+2013-08-17 12:06:07 identical stylesheets/main.css 
+2013-08-17 12:06:07 identical stylesheets/print.css 
+2013-08-17 12:06:08 identical stylesheets/screen.css 
+2013-08-17 12:06:08 overwrite stylesheets/style.css 
+2013-08-17 12:06:09 identical stylesheets/text.css 
+2013-08-17 12:06:21 identical stylesheets/grid.css 
+2013-08-17 12:06:21 identical stylesheets/ie.css 
+2013-08-17 12:06:22 identical stylesheets/main.css 
+2013-08-17 12:06:22 identical stylesheets/print.css 
+2013-08-17 12:06:23 identical stylesheets/screen.css 
+2013-08-17 12:06:23 overwrite stylesheets/style.css 
+2013-08-17 12:06:24 identical stylesheets/text.css 
+2013-08-30 11:07:17 overwrite stylesheets/style.css 
+2013-08-30 11:10:02 overwrite stylesheets/style.css 
+2013-08-30 11:17:14 overwrite stylesheets/style.css 
+2013-08-30 11:17:58 overwrite stylesheets/style.css 
+2013-08-30 11:28:23 overwrite stylesheets/style.css 
+2013-08-30 11:35:00 overwrite stylesheets/style.css 
+2013-08-30 11:35:11 overwrite stylesheets/style.css 
+2013-08-30 11:35:17 overwrite stylesheets/style.css 
+2013-08-30 11:35:29 overwrite stylesheets/style.css 
+2013-08-30 11:35:41 overwrite stylesheets/style.css 
+2013-08-30 11:35:49 overwrite stylesheets/style.css 
+2013-08-30 11:52:01 overwrite stylesheets/style.css 
+2013-08-30 11:52:42 overwrite stylesheets/style.css 
+2013-08-30 11:54:10 overwrite stylesheets/style.css 
+2013-08-30 12:10:17 overwrite stylesheets/style.css 
+2013-08-30 12:10:26 overwrite stylesheets/style.css 
+2013-08-30 12:23:58 overwrite stylesheets/style.css 
+2013-08-30 12:25:47 overwrite stylesheets/style.css 
+2013-08-30 12:27:03 overwrite stylesheets/style.css 
+2013-08-30 12:27:29 overwrite stylesheets/style.css 
+2013-08-30 12:27:39 overwrite stylesheets/style.css 
+2013-08-30 12:28:02 overwrite stylesheets/style.css 
+2013-08-30 12:29:19 overwrite stylesheets/style.css 
+2013-08-30 12:30:05 overwrite stylesheets/style.css 
+2013-08-30 12:31:01 overwrite stylesheets/style.css 
+2013-08-30 12:31:05 overwrite stylesheets/style.css 
+2013-08-30 12:31:28 overwrite stylesheets/style.css 
+2013-08-30 12:31:59 overwrite stylesheets/style.css 
+2013-08-30 12:32:14 overwrite stylesheets/style.css 
+2013-08-30 12:33:43 overwrite stylesheets/style.css 
+2013-08-30 12:33:46 overwrite stylesheets/style.css 
+2013-08-30 12:36:18 overwrite stylesheets/style.css 
+2013-08-30 12:36:40 overwrite stylesheets/style.css 
+2013-08-30 12:38:04 overwrite stylesheets/style.css 
+2013-08-30 12:38:39 overwrite stylesheets/style.css 
+2013-08-30 12:40:45 overwrite stylesheets/style.css 
+2013-08-30 12:50:11 overwrite stylesheets/style.css 
+2013-08-30 12:50:45 overwrite stylesheets/style.css 
+2013-08-30 13:07:39 identical stylesheets/style.css 
+2013-08-30 13:07:53 overwrite stylesheets/style.css 
+2013-08-30 13:09:22 overwrite stylesheets/style.css 
+2013-08-30 13:09:34 overwrite stylesheets/style.css 
+2013-08-30 13:10:01 overwrite stylesheets/style.css 
+2013-08-30 13:10:04 overwrite stylesheets/style.css 
+2013-08-30 13:10:25 overwrite stylesheets/style.css 
+2013-08-30 13:10:39 overwrite stylesheets/style.css 
+2013-08-30 13:11:59 overwrite stylesheets/style.css 
+2013-08-30 13:12:21 overwrite stylesheets/style.css 
+2013-08-30 13:15:54 overwrite stylesheets/style.css 
+2013-08-30 13:31:55 identical stylesheets/style.css 
+2013-08-30 13:33:24 overwrite stylesheets/style.css 
+2013-08-30 13:40:53 overwrite stylesheets/style.css 
+2013-08-30 13:42:31 overwrite stylesheets/style.css 
+2013-08-30 14:00:32 overwrite stylesheets/style.css 
+2013-08-30 14:01:47 overwrite stylesheets/style.css 
+2013-08-30 14:02:17 overwrite stylesheets/style.css 
+2013-08-30 14:02:58 overwrite stylesheets/style.css 
+2013-08-30 14:08:09 overwrite stylesheets/style.css 
+2013-08-30 14:08:34 overwrite stylesheets/style.css 
+2013-08-30 14:08:59 overwrite stylesheets/style.css 
+2013-08-30 14:09:18 overwrite stylesheets/style.css 
+2013-08-30 14:09:26 overwrite stylesheets/style.css 
+2013-08-30 14:27:35 overwrite stylesheets/style.css 
+2013-08-30 14:27:44 overwrite stylesheets/style.css 
+2013-08-30 14:27:54 overwrite stylesheets/style.css 
+2013-08-30 14:28:14 overwrite stylesheets/style.css 
+2013-08-30 14:28:39 overwrite stylesheets/style.css 
+2013-08-30 14:29:05 overwrite stylesheets/style.css 
+2013-08-30 14:29:53 overwrite stylesheets/style.css 
+2013-08-30 14:30:08 overwrite stylesheets/style.css 
+2013-08-30 14:30:11 identical stylesheets/style.css 
+2013-08-30 14:30:22 overwrite stylesheets/style.css 
+2013-08-30 14:30:44 overwrite stylesheets/style.css 
+2013-08-30 14:31:11 overwrite stylesheets/style.css 
+2013-08-30 14:31:28 overwrite stylesheets/style.css 
+2013-08-30 14:31:43 overwrite stylesheets/style.css 
+2013-08-30 14:32:07 overwrite stylesheets/style.css 
+2013-08-30 14:32:26 overwrite stylesheets/style.css 
+2013-08-30 14:32:49 overwrite stylesheets/style.css 
+2013-08-30 14:33:09 overwrite stylesheets/style.css 
+2013-08-30 14:33:27 overwrite stylesheets/style.css 
+2013-08-30 14:33:37 overwrite stylesheets/style.css 
+2013-08-30 14:33:57 overwrite stylesheets/style.css 
+2013-08-30 14:34:11 overwrite stylesheets/style.css 
+2013-08-30 14:34:18 overwrite stylesheets/style.css 
+2013-08-30 14:34:28 overwrite stylesheets/style.css 
+2013-08-30 15:01:43 overwrite stylesheets/style.css 
+2013-08-30 15:03:35 overwrite stylesheets/style.css 
+2013-08-30 15:03:50 overwrite stylesheets/style.css 
+2013-08-30 15:04:32 overwrite stylesheets/style.css 
+2013-08-30 15:04:47 overwrite stylesheets/style.css 
+2013-08-30 15:04:59 overwrite stylesheets/style.css 
+2013-08-30 15:05:35 overwrite stylesheets/style.css 
+2013-08-30 15:06:02 overwrite stylesheets/style.css 
+2013-08-30 15:06:30 overwrite stylesheets/style.css 
+2013-08-30 15:07:17 overwrite stylesheets/style.css 
+2013-08-30 16:48:38 overwrite stylesheets/style.css 
+2013-08-30 16:54:23 overwrite stylesheets/style.css 
+2013-08-30 16:55:51 overwrite stylesheets/style.css 
+2013-08-30 16:56:22 overwrite stylesheets/style.css 
+2013-08-30 16:58:04 overwrite stylesheets/style.css 
+2013-08-30 17:06:31 overwrite stylesheets/style.css 
+2013-08-30 17:06:44 overwrite stylesheets/style.css 
+2013-08-30 17:07:53 overwrite stylesheets/style.css 
+2013-08-30 17:09:36 overwrite stylesheets/style.css 
+2013-08-30 17:10:00 overwrite stylesheets/style.css 
+2013-08-30 17:10:32 overwrite stylesheets/style.css 
+2013-08-30 17:11:49 overwrite stylesheets/style.css 
+2013-08-30 17:12:56 overwrite stylesheets/style.css 
+2013-08-30 17:13:34 overwrite stylesheets/style.css 
+2013-08-30 17:13:53 overwrite stylesheets/style.css 
+2013-08-30 17:14:01 overwrite stylesheets/style.css 
+2013-08-30 17:14:24 overwrite stylesheets/style.css 
+2013-08-30 17:23:16 overwrite stylesheets/style.css 
+2013-08-30 17:23:41 overwrite stylesheets/style.css 
+2013-08-30 17:23:49 overwrite stylesheets/style.css 
+2013-08-30 17:24:05 overwrite stylesheets/style.css 
+2013-08-30 17:25:31 overwrite stylesheets/style.css 
+2013-08-30 17:25:53 overwrite stylesheets/style.css 
+2013-08-30 17:25:58 overwrite stylesheets/style.css 
+2013-08-30 17:26:32 overwrite stylesheets/style.css 
+2013-08-30 17:27:06 overwrite stylesheets/style.css 
