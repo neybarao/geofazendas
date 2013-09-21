@@ -388,8 +388,92 @@ body
 			font-weight: normal
 			color: #3d444a
 
+.table_list
+	width: 100%
+	background: white
+	border: none
+	border-collapse: collapse
+	.no-padding
+		padding: 0
+	th
+		padding: 10px 15px
+		color: white
+		font-size: 14px
+		background: #3c454a
+	td
+		border-bottom: 2px solid #f0f0f0
+		padding: 10px 15px
+		.info
+			color: #686868
+			text-decoration: none
+			big
+				display: block
+				font-size: 18px
+				font-weight: bold
+			small
+				display: block
+				font-size: 14px
+				font-weight: normal
+		.valor
+			font-size: 24px
+			font-weight: border-bottom
+			color: #f38021
+			text-decoration: none
+		.bt_detalhes
+			text-align: center
+			display: block
+			padding: 5px
+			padding-left: 30px
+			color: white
+			font-size: 18px
+			text-decoration: none
+			background: url(./gfx/icon_detalhes.png) 10px center no-repeat #8d8d8d
+			@include border-radius(2px)
+		.bt_detalhes:hover
+			background-color: #f7ab2c
+
+.pagination
+	background-color: #9aa4a9
+	border-collapse: collapse
+	width: 100%
+	margin: 0
+	.bt_right, .bt_left
+		width: 40px
+	.pages
+		vertical-align: middle
+		text-align: center
+		ul
+			position: relative
+			margin: auto
+			padding: 0
+			li
+				display: inline
+				a
+					background-color: #8d979c
+					color: white
+					text-decoration: none
+					margin: 0
+					display: block
+					float: left
+					width: 40px
+					padding: 9px 0 10px
+				a:hover
+					background-color: #f7ab2c
+				.current
+					background-color: #3c454a
+					color: #9daf3b
+					font-size: 14px
+					font-weight: bold
+	td
+		padding: 0
+		text-align: center
+	img
+		position: relative
+		display: block
+		margin: 0
+
 #footer
-	margin-top: 40px
+	position: relative
 	#footer-content
 		background: white
 		.site-info
@@ -441,7 +525,12 @@ body
 			text-align: right
 			
 
-
+.banner_area
+	position: relative
+	clear: both
+	display: block
+	padding: 40px 0
+	text-align: center
 
 
 
