@@ -103,6 +103,8 @@ body
 		margin-left: 150px
 
 #breadcrumbtrail
+	position: relative
+	z-index: 100
 	background: white
 	padding: 10px 0
 	font-size: 16px
@@ -142,6 +144,25 @@ body
 					font-weight: bold
 					color: white
 					text-transform: uppercase
+	.view_map
+		a
+			display: block
+			background: #fd7933
+			color: white
+			line-height: 50px
+			padding: 0 10px
+			vertical-align: middle
+			position: absolute
+			top: 10px
+			right: 15%
+			font-size: 14px
+			text-transform: uppercase
+			text-decoration: none
+			img
+				vertical-align: middle
+				margin-right: 5px
+		a:hover
+			background-color: #9aaf4b
 
 #partners-bg
 	position: relative
@@ -524,6 +545,55 @@ body
 			padding-left: 0
 			text-align: right
 			
+
+.detalhe_anuncio
+	height: 450px !important
+
+#details_sidebar
+	div
+		background-color: white
+		padding: 20px
+		margin-bottom: 20px
+		h2
+			color: #f38021
+			font-size: 18px
+			margin: 0
+			a
+				color: #9daf3a
+				text-decoration: underline
+				font-size: 14px
+				text-transform: none
+				font-weight: normal
+				top: 4px
+		p
+			color: #4e4e4e
+			font-size: 12px
+			margin: 0
+			margin-top: 10px
+	.div_valor
+		background-color: #f38021
+		border-top: 2px solid #ef6b18
+		h2
+			color: #ffcfa7
+		h3
+			margin: 0
+			margin-top: 10px
+			color: #ab4d00
+			font-size: 12px
+		big
+			font-size: 18px
+			color: white
+		small
+			color: #ab4d00
+			font-size: 12px
+	.nota
+		padding: 0
+		background: none
+		p
+			color: #989898 !important
+			font-size: 12px
+			line-height: 1em
+
 
 .banner_area
 	position: relative
