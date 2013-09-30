@@ -104,6 +104,67 @@ body
 
 .result_list
 	height: 200px !important
+	position: relative
+	form
+		padding-left: 10px
+		label
+			display: block
+			float: left
+			font-size: 15px
+			color: black
+			margin-right: 20px
+			span
+				display: block
+				font-size: 18px
+				font-weight: bold
+				color: white
+				text-transform: uppercase
+			input
+				background: white
+				font-size: 15px
+				color: #707e25
+				border: none
+				line-height: 36px
+				width: 140px
+				@include border-radius(5px)
+			select
+				background: white
+				font-size: 15px
+				color: #707e25
+				border: none
+				margin-right: 20px
+				option
+					line-height: 36px
+		.green_button
+			padding: 10px
+			background-color: #8d9d34
+			color: white
+			font-weight: bold
+			text-transform: uppercase
+			text-decoration: none
+			text-align: center
+			width: 150px
+			font-size: 18px
+			border: none
+			margin-top: 28px
+			@include border-radius(5px)
+	.advanced_search
+		position: absolute
+		bottom: 0
+		left: 50%
+		margin-left: -100px
+		padding: 10px
+		background-color: #f38021
+		color: white
+		font-weight: bold
+		text-transform: uppercase
+		text-decoration: none
+		text-align: center
+		width: 200px
+		font-size: 18px
+		border: none
+		margin-top: 28px
+		@include border-top-radius(5px)
 
 #breadcrumbtrail
 	position: relative
