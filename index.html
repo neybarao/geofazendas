@@ -16,6 +16,7 @@
     <link href="/stylesheets/text.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href="stylesheets/grid.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href="stylesheets/text.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="javascripts/chosen_v1.0.0/chosen.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
     <link href='stylesheets/style.css' rel='stylesheet' />
     <script src='js/modernizr-2.0.6.min.js'></script>
@@ -52,24 +53,26 @@
                     <form>
                         <label>
                             <span>Estado</span>
-                            <select>
+                            <select class="chosen-select home-search-estado">
                                 <option>Escolha</option>
                             </select>
                         </label>
 
                         <label>
                             <span>Cidade</span>
-                            <select>
+                            <select class="chosen-select home-search-cidade">
                                 <option>Escolha</option>
                             </select>
                         </label>
 
                         <label>
                             <span>Finalidade</span>
-                            <select>
+                            <select class="chosen-select home-search-finalidade">
                                 <option>Escolha</option>
                             </select>
                         </label>
+
+                        <div style="clear: both">&nbsp;</div>
 
                         <label>
                             <span>Preço de</span>
@@ -83,6 +86,8 @@
 
                         <input type="submit" value="Buscar" class="green_button">
                     </form>
+
+                    <a href="#" class="advanced_search">Busca Avançada</a>
 
                 </div>
             </div>
@@ -167,6 +172,7 @@
                     <div id="map-info">
                         <span><img src="stylesheets/gfx/icon-info.png"></span>
                         <p>Este é um breve texto explicativo sobre os mapas temáticos.</p>
+												<br>
                         <p>Ao lado, os links para os mapas que redirecionam o usuário para a página de mapas.</p>
                     </div>
                 </div>
@@ -233,5 +239,7 @@
       window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})});
     </script>
     <![endif]-->
+    <script src='javascripts/chosen_v1.0.0/chosen.jquery.min.js'></script>
+		<script src='javascripts/script.js'></script>
   </body>
 </html>

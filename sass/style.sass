@@ -133,6 +133,22 @@ body
 		top: -314px
 		background: rgba(15, 26, 33, 0.8)
 		height: 100%
+		.advanced_search
+			position: absolute
+			bottom: 0
+			left: 350px
+			padding: 10px
+			background-color: #f38021
+			color: white
+			font-weight: bold
+			text-transform: uppercase
+			text-decoration: none
+			text-align: center
+			width: 200px
+			font-size: 18px
+			border: none
+			margin-top: 28px
+			@include border-top-radius(5px)
 		form
 			width: 614px
 			margin: auto
@@ -154,7 +170,17 @@ body
 					color: #707e25
 					border: none
 					line-height: 36px
+					width: 210px
+					margin-right: 20px
 					@include border-radius(5px)
+				select
+					background: white
+					font-size: 15px
+					color: #707e25
+					border: none
+					margin-right: 20px
+					option
+						line-height: 36px
 			.green_button
 				padding: 10px
 				background-color: #8d9d34
@@ -162,9 +188,29 @@ body
 				font-weight: bold
 				text-transform: uppercase
 				text-decoration: none
+				text-align: center
+				width: 150px
 				font-size: 18px
 				border: none
+				margin-top: 28px
 				@include border-radius(5px)
+//			.home-search-estado
+//				width: 130px
+//				line-height: 36px
+			.home-search-cidade
+				width: 260px
+//				line-height: 36px
+//			.home-search-finalidade
+//				width: 180px
+//				line-height: 36px
+//			.chosen-container-single
+//				line-height: 36px
+//			.chosen-container-single .chosen-single span
+//				text-transform: none
+//				font-size: 15px
+//				font-weight: normal
+//				line-height: 36px
+//				color: #666
 	.view_map
 		a
 			display: block
@@ -294,6 +340,7 @@ body
 			font-size: 14px
 			color: #82c0bd
 			font-weight: medium
+				line-height: 1em
 	ul
 		margin-top: 8px
 		li

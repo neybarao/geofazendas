@@ -748,3 +748,41 @@ Load paths:
 2013-09-28 18:37:59 overwrite stylesheets/style.css 
 2013-09-28 18:39:14 overwrite stylesheets/style.css 
 2013-09-28 18:39:40 overwrite stylesheets/style.css 
+2013-09-29 10:28:21     error sass/style.sass (Line 297: Inconsistent indentation: 12 spaces were used for indentation, but the rest of the document was indented using 1 tab.)
+2013-09-29 10:28:21 overwrite stylesheets/style.css 
+2013-09-29 10:29:07 overwrite stylesheets/style.css 
+2013-09-29 18:33:52 overwrite stylesheets/style.css 
+2013-09-29 18:35:34 overwrite stylesheets/style.css 
+2013-09-29 18:37:25 overwrite stylesheets/style.css 
+2013-09-29 18:38:11 overwrite stylesheets/style.css 
+2013-09-29 18:39:55 overwrite stylesheets/style.css 
+2013-09-29 18:40:12 overwrite stylesheets/style.css 
+2013-09-29 18:40:35 overwrite stylesheets/style.css 
+2013-09-29 18:41:02 overwrite stylesheets/style.css 
+2013-09-29 18:42:21 overwrite stylesheets/style.css 
+2013-09-29 19:34:19 overwrite stylesheets/style.css 
+2013-09-29 19:34:37 overwrite stylesheets/style.css 
+2013-09-29 19:34:46 overwrite stylesheets/style.css 
+2013-09-29 19:34:52 overwrite stylesheets/style.css 
+2013-09-29 19:35:26     error sass/style.sass (Line 189: Invalid CSS after "#666*/": expected expression (e.g. 1px, bold), was "")
+2013-09-29 19:35:27 overwrite stylesheets/style.css 
+2013-09-29 19:36:00     error sass/style.sass (Line 196: Invalid CSS after "#666*/": expected expression (e.g. 1px, bold), was "")
+2013-09-29 19:36:00 overwrite stylesheets/style.css 
+2013-09-29 19:36:16     error sass/style.sass (Line 196: Invalid CSS after "#666 */": expected expression (e.g. 1px, bold), was "")
+2013-09-29 19:36:16 overwrite stylesheets/style.css 
+2013-09-29 19:37:08 overwrite stylesheets/style.css 
+2013-09-29 19:37:47 overwrite stylesheets/style.css 
+2013-09-29 20:22:12 identical stylesheets/style.css 
+2013-09-29 20:28:54 overwrite stylesheets/style.css 
+2013-09-29 20:29:21 overwrite stylesheets/style.css 
+2013-09-29 20:31:07     error sass/style.sass (Line 148: Mixin border-radius takes 2 arguments but 4 were passed.)
+2013-09-29 20:31:07 overwrite stylesheets/style.css 
+2013-09-29 20:31:28 overwrite stylesheets/style.css 
+2013-09-29 20:31:37 overwrite stylesheets/style.css 
+2013-09-29 20:32:48 overwrite stylesheets/style.css 
+2013-09-29 20:33:22 overwrite stylesheets/style.css 
+2013-09-29 20:33:36 overwrite stylesheets/style.css 
+2013-09-29 20:33:39 overwrite stylesheets/style.css 
+2013-09-29 20:34:02 overwrite stylesheets/style.css 
+2013-09-29 20:34:08 overwrite stylesheets/style.css 
+2013-09-29 20:34:15 overwrite stylesheets/style.css 
